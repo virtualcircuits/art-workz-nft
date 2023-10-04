@@ -1,0 +1,20 @@
+{
+  "name": "Kayangan Lake",
+  "symbol": "ART",
+  "description": "Kayangan Lake in the Philippines is a stunning emerald-green freshwater lake nestled amidst dramatic limestone cliffs on Coron Island, renowned for its crystal-clear waters and breathtaking natural beauty.",
+  "image": "3.png",
+  "attributes": [
+    {
+      "trait_type": "Photography",
+      "value": "4"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

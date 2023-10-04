@@ -1,0 +1,20 @@
+{
+  "name": "Nacpan Beach",
+  "symbol": "ART",
+  "description": "Nacpan Beach in the Philippines is a pristine and idyllic stretch of coastline with golden sands, swaying palm trees, and turquoise waters, often cited as one of the most beautiful beaches in the world.",
+  "image": "4.png",
+  "attributes": [
+    {
+      "trait_type": "Photography",
+      "value": "5"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

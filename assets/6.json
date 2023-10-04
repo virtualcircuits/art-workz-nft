@@ -1,0 +1,20 @@
+{
+  "name": "Yapak Beach (Puka Shell Beach)",
+  "symbol": "ART",
+  "description": "Yapak Beach, also known as Puka Shell Beach, in the Philippines is a serene and less-developed beach renowned for its coarse white sand and abundance of puka shells, offering a peaceful escape from the crowds.",
+  "image": "6.png",
+  "attributes": [
+    {
+      "trait_type": "Photography",
+      "value": "7"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "6.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

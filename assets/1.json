@@ -1,0 +1,20 @@
+{
+  "name": "White Beach",
+  "symbol": "ART",
+  "description": "White Beach in the Philippines is a world-famous tropical paradise known for its powdery white sand, crystal-clear turquoise waters, and vibrant nightlife.",
+  "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "Photography",
+      "value": "1"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

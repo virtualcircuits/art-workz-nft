@@ -1,0 +1,20 @@
+{
+  "name": "Fort Santiago",
+  "symbol": "ART",
+  "description": "Fort Santiago in the Philippines is a historic citadel located within Intramuros, Manila, known for its Spanish colonial architecture and significant role in Philippine history, including as a site associated with the national hero, Jose Rizal.",
+  "image": "9.png",
+  "attributes": [
+    {
+      "trait_type": "Photoography",
+      "value": "10"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

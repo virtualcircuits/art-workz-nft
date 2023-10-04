@@ -1,0 +1,20 @@
+{
+  "name": "Big Lagoon",
+  "symbol": "ART",
+  "description": "Big Lagoon in the Philippines is a pristine turquoise lagoon surrounded by towering limestone cliffs and lush vegetation, offering a captivating natural oasis for kayaking and exploration.",
+  "image": "8.png",
+  "attributes": [
+    {
+      "trait_type": "Photography",
+      "value": "9"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

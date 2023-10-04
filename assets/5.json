@@ -1,0 +1,20 @@
+{
+  "name": "Chocolate Hills Natural Monument",
+  "symbol": "ART",
+  "description": "The Chocolate Hills Natural Monument in the Philippines is a surreal landscape of over 1,000 conical-shaped hills that turn brown during the dry season, resembling chocolate kisses, and is a unique geological wonder.",
+  "image": "5.png",
+  "attributes": [
+    {
+      "trait_type": "Photography",
+      "value": "6"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Intramuros",
+  "symbol": "ART",
+  "description": "Intramuros, located in Manila, Philippines, is a historic walled city that preserves Spanish colonial architecture and history, offering a glimpse into the country's colonial past.",
+  "image": "2.png",
+  "attributes": [
+    {
+      "trait_type": "Photography",
+      "value": "3"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
