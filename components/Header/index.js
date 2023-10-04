@@ -38,7 +38,7 @@ const Header = () => {
       <div className={styles.container}>
         <ul className={styles.navBar}>
           <li className={styles.navItem}>Products</li>
-          <li className={styles.navItem} ><a href="https://opensea.io/">Marketplace</a></li>
+          <li className={styles.navItem}>Marketplace</li>
           <li className={styles.navItem}>Contact Us</li>
         </ul>
         {/* Wallet connect button goes here!  */}
